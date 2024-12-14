@@ -1,4 +1,4 @@
-### DocBase v1.0 Features
+### DocBase v1.0.0 Features
 
 **1. Lightweight File-Based Database**
 - Stores data in JSON files, eliminating the need for traditional databases like MySQL or SQLite. 
@@ -29,3 +29,10 @@
 
 **9. Error Handling**
 - Includes custom exceptions for clear and predictable error reporting.
+
+---
+
+### DocBase v1.0.0 Installation
+
+- Install DocBase using **Composer**:
+``` composer require docbasedb/docbase ```
