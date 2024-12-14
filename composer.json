@@ -1,0 +1,11 @@
+{
+    "name": "umaarov/docbase",
+    "description": "A lightweight PHP file database system",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "DocBase\\": "src/"
+        }
+    },
+    "require": {}
+}
