@@ -1,11 +1,18 @@
 {
-    "name": "umaarov/docbase",
+    "name": "docbasedb/docbase",
     "description": "A lightweight PHP file database system",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "DocBase\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "Umarov Ismoiljon",
+            "email": "hs.umarov21@gmail.com"
+        }
+    ],
     "require": {}
 }
